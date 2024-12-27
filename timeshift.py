@@ -166,7 +166,8 @@ film_ref = [r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te
 film_sam = [r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te 19073\2022-02-14T15-16-52.261847-100avg-sample-X_33.000 mm-Y_17.500 mm.txt",r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te 19073\2022-02-14T15-16-33.073854-100avg-sample-X_32.500 mm-Y_17.500 mm.txt",r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te 19073\2022-02-14T15-16-13.827848-100avg-sample-X_32.000 mm-Y_17.500 mm.txt",r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te 19073\2022-02-14T15-15-54.988855-100avg-sample-X_31.500 mm-Y_17.500 mm.txt",r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te 19073\2022-02-14T15-15-35.983856-100avg-sample-X_31.000 mm-Y_17.500 mm.txt",r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te 19073\2022-02-14T15-15-17.033856-100avg-sample-X_30.500 mm-Y_17.500 mm.txt",r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te 19073\2022-02-14T15-15-17.033856-100avg-sample-X_30.500 mm-Y_17.500 mm.txt",r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te 19073\2022-02-14T15-15-17.033856-100avg-sample-X_30.500 mm-Y_17.500 mm.txt",r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te 19073\2022-02-14T15-15-17.033856-100avg-sample-X_30.500 mm-Y_17.500 mm.txt",r"C:\Users\Denij Giri\Desktop\Conductivity\Mariel\2022_02_14\GaAs_Te 19073\2022-02-14T15-15-17.033856-100avg-sample-X_30.500 mm-Y_17.500 mm.txt"]
   
 
-
+def denij (p = 0):
+    return None
 
 #sigma1 = []
 
