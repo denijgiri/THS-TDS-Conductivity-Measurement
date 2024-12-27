@@ -56,7 +56,8 @@ def fourier_transform(data_td):
     data_fd = np.array([freq[pos_slice], fourier[pos_slice]]).T
     return data_fd
 
-
+def def(plot = 1):
+    return None
 
 base_path_sub = Path(r"C:\Users\Denij Giri\Desktop\Conductivity\Semiconductors\GaAs_wafer25_sub_remeasure")
 sub_ref = list((base_path_sub/"Reference").glob("*.txt"))

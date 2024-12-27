@@ -50,7 +50,7 @@ for file in data_list:
 extent = [20,50,-15,12]
 
 #print(n)
-plt.figure()
+plt.figure("Image")
 #plt.xlim(30,50)
 #plt.ylim(-15,12)
 plt.imshow(n,extent = extent, origin = 'upper')
